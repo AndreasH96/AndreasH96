@@ -45,9 +45,8 @@ I'm a Data Engineer/Data Scientist/Software Developer ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" heigt=40 width=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" heigt=40 width=40>
  </div>
  
