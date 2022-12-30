@@ -31,7 +31,8 @@ I'm a Data Engineer/Data Scientist/Software Developer ✨
  Languages and Tools:
  <div id"tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" heigt=40 width=40>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" heigt=40 width=40>                                                                                  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" heigt=40 width=40>
