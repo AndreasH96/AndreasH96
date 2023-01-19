@@ -50,6 +50,4 @@ I'm a Data Engineer/Data Scientist/Software Developer ✨
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" heigt=40 width=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" heigt=40 width=40>
  </div>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreash96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
