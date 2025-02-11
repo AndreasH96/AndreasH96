@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Data Engineer/Data Scientist/Software Developer ✨
+Currently working as a Research Engineer at Linneus University ✨
 
 📫 How to reach me:
 <div id="badges"> 
@@ -24,30 +24,3 @@ I'm a Data Engineer/Data Scientist/Software Developer ✨
  </div>
  
  
-  🔭 I'm currently looking into Machine Learning projects
-                                                                                                                               
- 🌱 I'm currently studying Professional Machine Learning Engineer on GCP
-
- Languages and Tools:
- <div id"tools">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" heigt=40 width=40>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" heigt=40 width=40>                                                                                  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" heigt=40 width=40>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" heigt=40 width=40>
- </div>
-
