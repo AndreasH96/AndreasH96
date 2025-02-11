@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently working as a Research Engineer at Linneus University ✨
+
+Currently on assignment as a Research Engineer at Linneus University ✨ 
 
 📫 How to reach me:
 <div id="badges"> 
